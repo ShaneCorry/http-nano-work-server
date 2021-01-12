@@ -8,6 +8,7 @@ extern crate hyper;
 extern crate ocl;
 extern crate parking_lot;
 extern crate rand;
+extern crate reqwest;
 extern crate time;
 #[macro_use]
 extern crate serde_json;
